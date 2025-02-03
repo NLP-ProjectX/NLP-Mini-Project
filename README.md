@@ -5,5 +5,5 @@ Pytesseract file download link: https://github.com/tesseract-ocr/tesseract/relea
 Step to run Gemini
 
 1) Create a .env file
-2) Add yoyr Gemini api key
+2) Add your Gemini api key
    Sample: GEMINI_API_KEY=AIzaSyBwM3cl****************
