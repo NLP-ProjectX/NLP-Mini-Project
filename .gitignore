@@ -3,3 +3,4 @@ Cropped_Receipts
 embeddings
 dataset
 glove.word2vec
+auto_labeled_receipt_data.csv
