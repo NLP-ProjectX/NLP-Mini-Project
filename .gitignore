@@ -1,2 +1,5 @@
 .env
 Cropped_Receipts
+embeddings
+dataset
+glove.word2vec
