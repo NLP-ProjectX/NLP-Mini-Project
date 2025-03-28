@@ -4,3 +4,4 @@ embeddings
 dataset
 glove.word2vec
 auto_labeled_receipt_data.csv
+best_receipt_classifier.pt
